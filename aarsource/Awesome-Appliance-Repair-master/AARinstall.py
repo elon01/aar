@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-i#
 from subprocess import Popen
 import os, sys, getpass, binascii
 
